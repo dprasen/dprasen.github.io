@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dprasen.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/dprasen.github.io/static/js/main.f79a3635.chunk.js",
+    "main.js.map": "/dprasen.github.io/static/js/main.f79a3635.chunk.js.map",
+    "runtime-main.js": "/dprasen.github.io/static/js/runtime-main.fff348e6.js",
+    "runtime-main.js.map": "/dprasen.github.io/static/js/runtime-main.fff348e6.js.map",
+    "static/js/2.f5bf7272.chunk.js": "/dprasen.github.io/static/js/2.f5bf7272.chunk.js",
+    "static/js/2.f5bf7272.chunk.js.map": "/dprasen.github.io/static/js/2.f5bf7272.chunk.js.map",
+    "index.html": "/dprasen.github.io/index.html",
+    "precache-manifest.b9993e0abbf579dece501c2e176b4ec1.js": "/dprasen.github.io/precache-manifest.b9993e0abbf579dece501c2e176b4ec1.js",
+    "service-worker.js": "/dprasen.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/dprasen.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f5bf7272.chunk.js.LICENSE.txt": "/dprasen.github.io/static/js/2.f5bf7272.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fff348e6.js",
+    "static/js/2.f5bf7272.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f79a3635.chunk.js"
+  ]
+}
